@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="CIET logo">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e5bba"/><stop offset="1" stop-color="#10213d"/></linearGradient></defs>
+<circle cx="50" cy="50" r="47" fill="#edf4ff" stroke="#1e5bba" stroke-width="2"/>
+<path d="M50 12 78 28v31L50 78 22 59V28Z" fill="url(#g)"/>
+<path d="M32 38h36M32 47h36M32 56h24" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="91" font-family="Arial,sans-serif" font-size="10" font-weight="700" text-anchor="middle" fill="#10213d">CIET</text>
+</svg>
